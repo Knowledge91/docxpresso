@@ -1,0 +1,32 @@
+{
+  "name": "docxpresso",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hmacsha1": "^1.0.0",
+    "js-base64": "^2.4.8",
+    "js-sha1": "^0.6.0",
+    "locutus": "^2.0.9",
+    "uuid": "^3.3.2"
+  },
+  "description": "Docxpresso SDK for Node.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knowledge91/docxpresso.git"
+  },
+  "keywords": [
+    "Node",
+    "Docxpresso",
+    "Javascript"
+  ],
+  "author": "Dirk Hornung <dirkhornung91@gmail.com> (http://www.dirkhornung.com)",
+  "bugs": {
+    "url": "https://github.com/Knowledge91/docxpresso/issues"
+  },
+  "homepage": "https://github.com/Knowledge91/docxpresso#readme"
+}
